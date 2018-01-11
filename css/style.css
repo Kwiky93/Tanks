@@ -1,0 +1,5 @@
+canvas{/*Для всех canvas*/
+  display: block;
+	margin: auto;
+	position: absolute;
+}
